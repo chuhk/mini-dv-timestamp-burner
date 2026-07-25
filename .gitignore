@@ -1,0 +1,17 @@
+# Video files (Prevent pushing large video captures)
+*.dv
+*.DV
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.mkv
+*.avi
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Log files
+*.log
